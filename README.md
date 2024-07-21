@@ -9,8 +9,10 @@
 Bikeshare data analysis
 
 ### Description
+<<<<<<< HEAD
 - The project is aimed to analyzing data from csv files.
 - The project is included the following functions : loading file from csv files, Emplementing some statistic computing functions...
 
 ### Files used
+<<<<<<< HEAD
 Include the files : bikeshare.py, new_york_city.csv, washington.csv, chicago.csv.
