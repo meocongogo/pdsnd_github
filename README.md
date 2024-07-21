@@ -7,7 +7,8 @@
 Bike Share
 
 ### Description
-Describe what your project is about and what it does
+Read data from csv file
+Analyse data
 
 ### Files used
 Include the files used
