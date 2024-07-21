@@ -6,6 +6,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
+# List months of a year              
 months=[ 'january' , 'february' , 'march', 'april', 'may', 'june' ,  'july' , 'august' , 'september' , 'october' , 
                     'november' , 'december' ]
 day_of_weeks=[ 'monday' , 'tuesday' , 'wednesday' , 'thursday' , 'friday' , 'saturday' , 'sunday']
