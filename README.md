@@ -1,18 +1,17 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+>**Note**: Before running the project, we need to prepare the environment : 
+- Install Python, anaconda
+- After installed anaconda successfully, we can use Jupyter Notebook by the way : On task bar, find and select jupyter.
 
 ### Date created
 21/07/2024
 
 ### Project Title
-Bike Share
+Bikeshare data analysis
 
 ### Description
-Read data from csv file
-Analyse data 123 456
+- The project is aimed to analyzing data from csv files.
+- The project is included the following functions : loading file from csv files, Emplementing some statistic computing functions...
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Include the files : bikeshare.py, new_york_city.csv, washington.csv, chicago.csv
 
